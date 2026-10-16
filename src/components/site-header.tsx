@@ -4,7 +4,7 @@ import { useState } from "react";
 import { Button } from "@/components/ui/button";
 import vutorsLogo from "@/assets/vutors-logo.jpg";
 
-const MAIN_SITE_URL = "https://example.com"; // Replace with your main website URL
+const MAIN_SITE_URL = "https://vutors.com"; // Replace with your main website URL
 
 const navItems = [
   { to: "/", label: "Home" },
